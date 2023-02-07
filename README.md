@@ -1,16 +1,16 @@
-## project-one
+# project-one
 
 An exploration on the changes in electroencepholography (EEG) measurements in students during states of concentration and confusion. 
 We are curious about the relationship of confused mental states and its visualization in EEG Data.
 Observations related to these patterns suggest a a possible biomarker for cognitive performance, in addition to a greater understastanding
 on the mechanisms of cognitive work in the human brain.
 
-# Project One Proposal
-# Project Title: 
+## Project One Proposal
+## Project Title: 
 The Brains of Confused Students
-# Team Members: 
+## Team Members: 
 Francisco Latimer, Dhawn Alexander, Shoaib Farooqui, Meghan Davis
-# Project Description:
+## Project Description:
 An exploration on the changes in electroencephalography (EEG)
 measurements in students during states of concentration and confusion. We are curious about
 the relationship of confused mental states and its visualization in EEG Data. Observations
@@ -27,7 +27,7 @@ level)(non confused user defined vs attention level)
 (non confusion user defined vs calm)
 Source: https://www.kaggle.com/datasets/wanghaohan/confused-eeg
 *Meghan wasn’t here to help breakdown the tasks*
-Breakdown:
+##Breakdown:
 1. Merge Demographics and EEG Data dataframes
 2. Utilize “.groupby()” and “.loc[]” functions to segment dataframe to relevant groups
 3. Utilize MatPlotLib to visualize EEG Data
