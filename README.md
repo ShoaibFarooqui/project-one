@@ -32,7 +32,7 @@ level)(non confused user defined vs attention level)
 Source: https://www.kaggle.com/datasets/wanghaohan/confused-eeg
 *Meghan wasn’t here to help breakdown the tasks*
 
-##Breakdown:
+## Breakdown:
 1. Merge Demographics and EEG Data dataframes
 2. Utilize “.groupby()” and “.loc[]” functions to segment dataframe to relevant groups
 3. Utilize MatPlotLib to visualize EEG Data
