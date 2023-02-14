@@ -28,7 +28,7 @@ students?
 3. Are ‘calm students' more likely to be confused? (confusion user defined vs calm) and
 (non confusion user defined vs calm)
 Source: https://www.kaggle.com/datasets/wanghaohan/confused-eeg
-*Meghan wasn’t here to help breakdown the tasks*
+
 
 ## Breakdown:
 1. Merge Demographics and EEG Data dataframes
