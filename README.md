@@ -25,7 +25,7 @@ a greater understanding of the mechanisms of cognitive work in the human brain.
 coded to alpha,beta,theta,delta)
 2. What Frequency Band is most pronounced in confused Students vs non confused
 students?
-4. Are ‘calm students' more likely to be confused? (confusion user defined vs calm) and
+3. Are ‘calm students' more likely to be confused? (confusion user defined vs calm) and
 (non confusion user defined vs calm)
 Source: https://www.kaggle.com/datasets/wanghaohan/confused-eeg
 *Meghan wasn’t here to help breakdown the tasks*
